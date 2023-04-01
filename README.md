@@ -4,7 +4,7 @@
 watermelon
 
 ## Credits
-<a href="https://thispersondoesnotexist.xyz/">inspiration</a
+<a href="https://thispersondoesnotexist.xyz/">inspiration</a>
 
 ## License
 <a href="https://github.com/FireStreaker2/FireStreaker2/blob/main/LICENSE">MIT</a>
