@@ -1,4 +1,4 @@
-root = document.getElementById("root");
+const root = document.getElementById("root");
 
 $.post('/endpoint', {query: "watermelon"}, function(response) {
   const url = response;
@@ -11,4 +11,10 @@ $.post('/endpoint', {query: "watermelon"}, function(response) {
 })
 .fail(function(error) {
   console.error(error);
+});
+
+var _z = console;
+Object.defineProperty( window, "console", {
+    get : function(){if( _z._commandLineAPI ){ throw "Script execution not permitted" } return _z; },
+    set : function(val){ _z = val }
 });
