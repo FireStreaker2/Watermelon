@@ -1,4 +1,4 @@
-![Watermelon](https://socialify.git.ci/FireStreaker2/Watermelon/image?description=1&font=Raleway&forks=1&issues=1&logo=https%3A%2F%2Fwatermelon.firestreaker2.gq%2Ffavicon.png&name=1&owner=1&pattern=Signal&pulls=1&stargazers=1&theme=Dark)
+![Watermelon](https://socialify.git.ci/FireStreaker2/Watermelon/image?description=1&font=Raleway&forks=1&issues=1&logo=https%3A%2F%2Ffirestreaker2.gq%2FwatermelonFavicon.png&name=1&owner=1&pattern=Signal&pulls=1&stargazers=1&theme=Dark)
 
 ## watermelon
 watermelon
